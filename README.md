@@ -1,8 +1,8 @@
 # Exp-06-Configuration-of-ADC-for-converting-analog-to-digital-signals
 
 
-### Name : EZHIL MATHI  R
-### Roll no: 212221240026
+### Name : LOGESHWARI P
+### Roll no: 212221230055
   
   
 ## Aim: 
