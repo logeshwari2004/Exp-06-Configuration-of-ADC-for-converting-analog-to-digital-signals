@@ -6,9 +6,9 @@
   
   
 ## Aim: 
-To configure internal ADC for   LPC2148 ARM 7 and write a code for displaying the values varying from 0v to 3.3v to its equivalent digital values 
+To configure internal ADC for   LPC2148 ARM 7 and write a code for displaying the values varying from 0v to 3.3v to its equivalent digital values.
 ## Components required: 
-Proteus ISIS professional suite, Kiel μ vision 5 Development environment 
+Proteus ISIS professional suite, Kiel μ vision 5 Development environment. 
  
  ![image](https://user-images.githubusercontent.com/36288975/198947663-2d75f694-880a-4bc0-be67-8c2d4125fdb6.png)
 
@@ -222,7 +222,7 @@ Figure -09 graph between % of pot(1Kohm) values and ADC
  ![outline](https://user-images.githubusercontent.com/93427208/200231922-6e77c6d8-d596-4480-822a-b1113deae273.png)
 
 ## Result :
-Configuring an ADC and the input values are displayed on LCD screen 
+Configuring an ADC and the input values are displayed on LCD screen. 
 
 
 
